@@ -987,9 +987,10 @@ section {
 # Events
 --------------------------------------------------------------*/
 .events {
-  background: url(../img/events-bg.jpg) center center no-repeat;
+  background: url(../img/hamburg-2111613__340.webp) center center no-repeat;
   background-size: cover;
   position: relative;
+  color: white;
 }
 .events::before {
   content: "";
@@ -1001,7 +1002,7 @@ section {
   bottom: 0;
 }
 .events .section-title h2 {
-  color: #fff;
+  color: rgb(252, 248, 248);
 }
 .events .container {
   position: relative;
@@ -1021,7 +1022,7 @@ section {
 .events .event-item h3 {
   font-weight: 600;
   font-size: 26px;
-  color: #cda45e;
+  color: #f5f4f3;
 }
 .events .event-item .price {
   font-size: 26px;
@@ -1042,7 +1043,7 @@ section {
 .events .event-item ul i {
   font-size: 20px;
   padding-right: 4px;
-  color: #cda45e;
+  color: #ffffff;
 }
 .events .event-item p:last-child {
   margin-bottom: 0;
